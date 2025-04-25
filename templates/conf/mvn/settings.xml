@@ -21,7 +21,6 @@
    <server>
      <id>repository</id>
      <username>${env.USERNAME}</username>
-     <password>$[mavenRepoPassword]</password>
    </server>
  </servers>
 
