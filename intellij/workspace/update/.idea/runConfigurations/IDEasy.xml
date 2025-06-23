@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <component name="ProjectRunConfigurationManager" xmlns:merge="https://github.com/devonfw/IDEasy/merge">
-  <configuration default="false" name="Run IDEasy" type="Application" factoryName="Application">
+  <configuration default="false" name="Run IDEasy" type="Application" factoryName="Application" merge:id="@name">
     <option name="MAIN_CLASS_NAME" value="com.devonfw.tools.ide.cli.Ideasy" />
     <module name="ide-cli" />
     <option name="WORKING_DIRECTORY" value="$[IDE_HOME]/workspaces/main/IDEasy" />
