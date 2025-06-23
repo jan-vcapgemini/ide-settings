@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<component name="ProjectRunConfigurationManager" xmlns:merge="https://github.com/devonfw/IDEasy/merge">
+  <configuration default="false" name="Run IDEasy" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.devonfw.tools.ide.cli.Ideasy" />
+    <module name="ide-cli" />
+    <option name="WORKING_DIRECTORY" value="$[IDE_HOME]/workspaces/main/IDEasy" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.devonfw.tools.ide.cli.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2" merge:id="name()">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
